@@ -3,7 +3,12 @@ guid: a413315c46d04e347975f77c1cf62bc0
 ModelImporter:
   serializedVersion: 24300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HongosMain
+    second: {fileID: 2100000, guid: 7ae525d3bc9d4fd4097c9d92a125b521, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
